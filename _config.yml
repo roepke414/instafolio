@@ -1,14 +1,14 @@
 # Site settings
-title: Firstname Lastname
-email: yourEmailAddress@website.com
-url: https://yourGithubUsername.github.io/
+title: Michael Roepke
+email: roepke414@gmail.com
+url: https://roepke414.github.io/
 description: "My personal portfolio"
-skills: "Short tagline about yourself.."
-meta_author: Lastname Firstname
+skills: "Engineer ready to better himself and the world"
+meta_author: Roepke Michael
 
 # Description
-about1: "Here's your about section. Post a paragraph or two about yourself to tell people what you do, and what you're interested in."
-about2: "And here's where you can write more about that. For now, the about section is split into two parts. I might make this better later"
+about1: "Automotive and motorcycle enthusiast with a passion for creating, engineering, and perfecting machined parts for the high performance world."
+about2: "I am a motivated creator, with the want to design and build everything from simple projects to complex robotics."
 
 # Color Settings (hex-codes without the leading hash-tag)
 # I recommend using a site like this: https://www.canva.com/color-palette/
@@ -30,26 +30,26 @@ about2: "And here's where you can write more about that. For now, the about sect
 #Background behind portfolio and contact forms. Default: 111111
   
 color:
-  primary: 1F2F42
-  secondary: 1F67B4
-  secondary-dark: 233140
-  background: 111111
+  primary: 628AB4
+  secondary: 0D161E
+  secondary-dark: 796B4D
+  background: D6D3CA
 
 # Footer settings
 footer:
-  copyright: User Name
-  location: Your location. Be as vague or specific as you like
-  social: Around the Web
+  copyright: Michael Roepke
+  location: Mankato, Minnesota
+  social: Across the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: http://www.facebook.com/myfacebookpath
+    url: http://www.instagram.com/roepke414 
   - title: github
-    url: http://github.com/githubusername
+    url: http://github.com/roepke414
   - title: linkedin
-    url: http://www.linkedin.com/in/linkedinusername
+    url: http://www.linkedin.com/in/michaelroepke
 
 
 # Relative Path Links

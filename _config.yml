@@ -30,10 +30,10 @@ about2: "I am a motivated creator, with the want to design and build everything 
 #Background behind portfolio and contact forms. Default: 111111
   
 color:
-  primary: 0D161E
-  secondary: 665218
-  secondary-dark: 628AB4
-  background: D6D3CA
+  primary: 628AB4
+  secondary: D6D3CA
+  secondary-dark: 0D161E
+  background: 111111
 
 # Footer settings
 footer:

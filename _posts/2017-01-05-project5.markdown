@@ -7,7 +7,7 @@ img: MOPEDMAIN.png
 alt: image-alt
 project-date: Summer 2016
 category: Automotive
-description: The projects goal was to restore a stock 50cc two stroke moped and transform it into a more sleek and efficient cafe style bike. The moped that was chosen was a 1986 Track Hawk/Sprinter. The entire moped was torn down to the bare frame where it and all of the parts were stripped of all paint and debris and then repainted, gas tank had a dent and was repaired with a body filling epoxy, delted oil injection system and replaced with a pre mix, new fuel line and filter, indicator delete, weight reduction, expansion chamber, low profile handlebars, and refurbished carburetor.
+description: The projects goal was to restore a stock 50cc two stroke moped and transform it into a more sleek and efficient cafe style bike. The moped that was chosen was a 1986 Track Hawk/Sprinter. The entire moped was torn down to the bare frame where it and all of the parts were stripped of all paint and then repainted, gas tank had a dent and was repaired with a body filling epoxy, delted oil injection system and replaced with a pre mix, new fuel line and filter, indicator delete, weight reduction, expansion chamber, low profile handlebars, and refurbished carburetor.
 After all modifications the moped was lighter and capable of slightly over 30mph.
 
 ---

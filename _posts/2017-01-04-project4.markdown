@@ -7,6 +7,6 @@ img: BAJAMAIN.png
 alt: image-alt
 project-date: Fall 2015
 category: Automotive
-description: The main goals of this project were to design, build, and test a 1/6th scale SAE Baja frame. We were able to choose any material to build the frame out of as long as it met specific rules and guidelines implemented by SAE. My team then developed a CAD model of the frame and ran computer simulations to test for structural rigidity and deflection. The frame was then built to scale from the materials that were chosen by the team. Teams then competed against each other and judged in these three categories: Structural rigidity, Weight, and Design.
+description: The main goals of this project were to design, build, and test a one sixth scale SAE Baja frame. We were able to choose any material to build the frame out of as long as it met specific rules and guidelines implemented by SAE. My team then developed a CAD model of the frame and ran computer simulations to test for structural rigidity and deflection. The frame was then built to scale from the materials that were chosen by the team. Teams then competed against each other and judged in these three categories: Structural rigidity, Weight, and Design.
 
 ---

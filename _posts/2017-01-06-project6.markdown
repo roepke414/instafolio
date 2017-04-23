@@ -2,7 +2,7 @@
 layout: default
 title: Formula SAE
 modal-id: 6
-date: 2017-04-22
+date: 2014-07-15
 img: FSAEMAIN.png
 alt: image-alt
 project-date: Fall 2016 Spring 2017

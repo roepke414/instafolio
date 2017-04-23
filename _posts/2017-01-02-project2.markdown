@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Project #2
-modal-id: 6
+title: CFD Simulation
+modal-id: 2
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: January 2017
-category: Example
-description: Here's some meaningless example text to describe what this post is about! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+project-date: Summer 2016
+category: Experimental
+description: The goal of the class was to be able to understand the basics, create simple to realistic simulations, and grasp the capabilities of CFD simulation software. My main project was to construct a simulation of how a simple carburetor used a differential in pressure to pull fuel out of the bowl and through the jet to atomize it. Calculations for exit speed out of the jet and intake air speed were calculated by hand and used as inputs for the simulation. Other projects in the class encompased how to obtain reasonable and usable data to support theories and calculations.
 
 ---

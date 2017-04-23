@@ -5,7 +5,7 @@ modal-id: 6
 date: 2017-04-22
 img:  FSAEMAIN.png
 alt: image-alt
-project-date: August 2016- May 2017
+project-date: Fall 2016 Spring 2017
 category: Automotive Engineering
 description: Formula SAE (FSAE) is a collegiate engineering design competition where 120 teams with 2,470 students from around the world design, manufacture and compete with a single-seat race car. The competition challenges students to take classroom theories, engineering principles, and project management to compete in the 8 different scored events: Endurance, Autocross, Efficiency, Skid-Pad, Acceleration, Cost Analysis, Engineering Design and Presentation design.
 My goal and position was to create the hub and upright parts for the suspension system using advanced parametric modeling and computer simulations to help refine the hub and upright model. Once the models were complete and using a assembly of other suspension components we developed a working model of the entire suspension system to ensure part accuracy and any other complications we could forsee with other systems and their working components. The next step was to CNC machine the hubs and uprights, some parts were exported to other companies with better tooling capabilities than our fabrication shop was capable of such as our wheel hubs. Using our in house CNC machines and MasterCam we were able to create tool paths for the teams front and rear uprights to help in cutting cost to the team and educate myself on how to properly run a CNC machine and how to create tool paths.

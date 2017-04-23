@@ -7,6 +7,11 @@ img: CFDMAIN.png
 alt: image-alt
 project-date: Summer 2016
 category: Experimental
-description: The goal of the class was to be able to understand the basics, create simple to realistic simulations, and grasp the capabilities of CFD simulation software. My main project was to construct a simulation of how a simple carburetor used a differential in pressure to pull fuel out of the bowl and through the jet to atomize it. Calculations for exit speed out of the jet and intake air speed were calculated by hand and used as inputs for the simulation. Other projects in the class encompased how to obtain reasonable and usable data to support theories and calculations.
+description: >
+  The goal of the class was to be able to understand the basics, create simple to realistic simulations, and grasp the capabilities of CFD  simulation software. My main project was to construct a simulation of how a simple carburetor used a differential in pressure to pull fuel out of the bowl and through the jet to atomize it. Calculations for exit speed out of the jet and intake air speed were calculated by hand and used as inputs for the simulation. Other projects in the class encompased how to obtain reasonable and usable data to support theories and calculations.
+  * Title of list
+  ** Item in List
+  ** Another Item
+
 
 ---

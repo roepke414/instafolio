@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAE Baja Frame Design
+title: Baja Frame Design
 modal-id: 4
 date: 2014-07-15
 img: BAJAMAIN.png

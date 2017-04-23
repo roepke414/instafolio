@@ -7,6 +7,6 @@ img: FSAEMAIN.png
 alt: image-alt
 project-date: Fall 2016 Spring 2017
 category: Automotive
-description: Formula SAE (FSAE) is a collegiate engineering design competition where 120 teams with 2,470 students from around the world design, manufacture and compete with a single-seat race car.
+description: Formula SAE (FSAE) is a collegiate engineering design competition where 120 teams with 2,470 students from around the world design, manufacture and compete with a single-seat race car. The competition challenges students to take classroom theories, engineering principles, and project management to compete in the 8 different scored events: Endurance, Autocross, Efficiency, Skid-Pad, Acceleration, Cost Analysis, Engineering Design and Presentation design.
 
 ---

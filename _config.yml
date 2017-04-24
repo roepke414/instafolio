@@ -34,6 +34,7 @@ color:
   secondary: D6D3CA
   secondary-dark: 0D161E
   background: 111111
+  text: ffffff
 
 # Footer settings
 footer:

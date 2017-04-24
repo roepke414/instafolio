@@ -1,6 +1,7 @@
 body {
     overflow-x: hidden;
     background-color: #111111;
+    color: #{{ site.color.text }}
 }
 
 p {
@@ -62,11 +63,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.text }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.text }};
     background-color: #111111;
 }
 

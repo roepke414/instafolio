@@ -3,7 +3,7 @@ layout: default
 title: TIG Welding
 modal-id: 8
 date: 2014-07-15
-img: CNCMAIN.png
+img: WELDINGMAIN.png
 alt: image-alt
 project-date: Spring 2017
 category: Manufacturing

@@ -3,7 +3,7 @@ layout: default
 title: CNC Programming
 modal-id: 7
 date: 2014-07-15
-img: FSAEMAIN.png
+img: CNCMAIN.png
 alt: image-alt
 project-date: Spring 2017
 category: Manufacturing

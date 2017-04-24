@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 
+title: CNC Programming
 modal-id: 7
 date: 2014-07-15
 img: FSAEMAIN.png
 alt: image-alt
-project-date: Fall 2016 Spring 2017
-category: Automotive
-description: 
+project-date: Spring 2017
+category: Manufacturing
+description: The goal of this project was to creat a profile of a image in PTC Creo and then write the G&N code for it to be CNC machined. The image was constrained to a 5inch by 5inch by 1inch block of plastic and was required to have four holes drilled in each corner along with the image being encompassed by a circle. Once the G-Code was written it was ran through a test program to check for errors and tool path faults. Then the CNC machine was set up, zeroed, and ran by the student.
 
 ---

@@ -7,9 +7,7 @@ img: Laser_1_900x600.png
 alt: image-alt
 project-date: 2017 2018
 category: Experimental
-description: 
-  I began work with Cambria and moved to a new house where we had a Epilog Legend series 45watt laser cutter and engraver.
-  For a while I was curious if the laser would etch and cut different materials, so I thought I would give it a try with some Cambria Quartz from work. I took a few samples home and began to experiment with it. At first I used painters tape since I read that usign it would produce sharper images and I found that I need really wide painters tape to do large objects, and the tape would catch fire sometimes. I also realized that overlapping tape would sometimes leak paint when I would paint the images I engraved with just regular model paint. Next I moved on to vinyl, like the stuff used in scrap booking. This worked phenomenally since I could buy large rolls of it and it would cover a large area and easy to remove without any fires.
+description:  I began work with Cambria and moved to a new house where we had a Epilog Legend series 45watt laser cutter and engraver. For a while I was curious if the laser would etch and cut different materials, so I thought I would give it a try with some Cambria Quartz from work. I took a few samples home and began to experiment with it. At first I used painters tape since I read that usign it would produce sharper images and I found that I need really wide painters tape to do large objects, and the tape would catch fire sometimes. I also realized that overlapping tape would sometimes leak paint when I would paint the images I engraved with just regular model paint. Next I moved on to vinyl, like the stuff used in scrap booking. This worked phenomenally since I could buy large rolls of it and it would cover a large area and easy to remove without any fires.
   Since these experiments I have been able to etch lots of stone and other materials and add color to the engravings as well.
   
   Here are just a few that I have done for some friends at work

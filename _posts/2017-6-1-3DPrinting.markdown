@@ -2,7 +2,7 @@
 layout: default
 title: Rapid Prototyping with 3D Printing
 modal-id: 9
-date: 2017-6
+date: 2017-6-1
 img: Block_900x600.png
 alt: image-alt
 project-date: June 2017

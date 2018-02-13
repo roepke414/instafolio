@@ -3,7 +3,7 @@ layout: default
 title: Epilog Laser Engraving
 modal-id: 13
 date: 2017-8-1
-img: 
+img: Laser_1_900x600.png
 alt: image-alt
 project-date: 2017/2018
 category: Experimental

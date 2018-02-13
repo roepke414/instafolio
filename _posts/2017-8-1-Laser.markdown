@@ -29,7 +29,6 @@ description: >
   <img src="https://i.imgur.com/ET6T5TZ.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
-  
     
   <img src="https://i.imgur.com/Kbc3xF0.jpg" alt="Aerial Photo" style="width: 80%;"/>
   

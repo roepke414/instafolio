@@ -3,7 +3,7 @@ layout: default
 title: CNC Milling
 modal-id: 11
 date: 2017-3-1
-img: 
+img: imageedit_2_9757752913.png
 alt: image-alt
 project-date: Spring 2017
 category: Machining

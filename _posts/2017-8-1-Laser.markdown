@@ -16,7 +16,7 @@ description: >
   Since these experiments I have been able to etch lots of stone and other materials and add color to the engravings as well.
   
   
-  Here are just a few that I have done for some friends at work
+  Here are just a few that I have done for some friends at work:
 
 
 
@@ -35,7 +35,7 @@ description: >
   
   
     
-  Here are some other things I have laser engraved as well
+  Here are some other things I have laser engraved as well:
 
 
   
@@ -43,7 +43,7 @@ description: >
   
   
     
-  Here is a video of me doing a engravign for my roommate
+  Here is a video of me doing a engraving for my roommate:
 
   <div style='position:relative;padding-bottom:57%'><iframe src='https://media.giphy.com/media/cUIsGp0itEIn0XnrTs/giphy.gif' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 ---

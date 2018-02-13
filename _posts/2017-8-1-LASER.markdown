@@ -5,9 +5,10 @@ modal-id: 13
 date: 2017-8-1
 img: Laser_1_900x600.png
 alt: image-alt
-project-date: 2017/2018
+project-date: 2017 2018
 category: Experimental
 description: > 
+
 I began work with Cambria and moved to a new house where we had a Epilog Legend series 45watt laser cutter and engraver.
 For a while I was curious if the laser would etch and cut different materials, so I thought I would give it a try with some Cambria Quartz
 from work. I took a few samples home and began to experiment with it. At first I used painters tape since I read that usign it would produce sharper images

@@ -21,17 +21,17 @@ description: >
 
 
   
-  <img src="https://imgur.com/ET6T5TZ" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/X5eKpSA.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
   
     
-  <img src="https://imgur.com/X5eKpSA" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/ET6T5TZ.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
   
     
-  <img src="https://imgur.com/Kbc3xF0" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/Kbc3xF0.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
     
@@ -39,7 +39,7 @@ description: >
 
 
   
-  <img src="https://imgur.com/kQGzPsN" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/kQGzPsN.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
     

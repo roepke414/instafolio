@@ -3,7 +3,7 @@ layout: default
 title: CNC Programming
 modal-id: 11
 date: 2014-07-15
-img: imageedit_2_9757752913_1_900x600.png
+img: 
 alt: image-alt
 project-date: Spring 2017
 category: Manufacturing

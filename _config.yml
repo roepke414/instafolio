@@ -3,12 +3,12 @@ title: Michael Roepke
 email: roepke414@gmail.com
 url: https://roepke414.github.io/
 description: "My personal portfolio"
-skills: "Engineer ready to engineer"
+skills: "Engineering Ahead"
 meta_author: Roepke Michael
 
 # Description
 about1: "Automotive and motorcycle enthusiast with a passion for creating, engineering, and perfecting machined parts for the high performance world."
-about2: "I am a motivated creator, with the want to design and build everything from simple projects to complex robotics."
+about2: "I am a motivated creator, with the want to design and build everything from simple machined parts, 3D printed prototypes, automotive performance and accessories."
 
 # Color Settings (hex-codes without the leading hash-tag)
 # I recommend using a site like this: https://www.canva.com/color-palette/
@@ -39,7 +39,7 @@ color:
 # Footer settings
 footer:
   copyright: Michael Roepke
-  location: Mankato, Minnesota
+  location: Saint Paul, Minnesota
   social: Across the Web
   credits: Credits
 

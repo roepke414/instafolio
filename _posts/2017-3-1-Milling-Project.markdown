@@ -17,4 +17,13 @@ description: >
   
     
   <img src="https://i.imgur.com/SvACjxt.jpg" alt="Aerial Photo" style="width: 80%;"/>
+  
+  
+  Here is me checking tolerances, right on the dot:
+  
+  
+  <img src="https://i.imgur.com/c6YgFXL.jpg" alt="Aerial Photo" style="width: 80%;"/>
+  
+  
+  <img src="https://i.imgur.com/whJKyaV.jpg" alt="Aerial Photo" style="width: 80%;"/>
 ---

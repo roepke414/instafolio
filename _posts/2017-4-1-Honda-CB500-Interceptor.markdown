@@ -3,7 +3,7 @@ layout: default
 title: Honda Interceptor Repair
 modal-id: 10
 date: 2017-4-1
-img: Motorcycle.png
+img: Motorcycle1.png
 alt: image-alt
 project-date: April 2017
 category: Automotive Repair

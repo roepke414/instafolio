@@ -24,7 +24,7 @@ description: >
   Here is the comparison between the original paint and the first pass of compound:
   
   
-  <img src="https://i.imgur.com/r4BQg7y.mp4" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/nZjvQe8.jpeg" alt="Aerial Photo" style="width: 80%;"/>
   
   
   Here is the final product of what the car looked like after compound, polishing the paint, applying sealant, and then a glossifier wax:

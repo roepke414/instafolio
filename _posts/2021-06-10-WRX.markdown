@@ -10,7 +10,7 @@ category: Automotive
 description: >
 
 
-  I was tasked with creating a part out of a block of aluminum to a +-.001 spec for a friend of mine. It was a modified clamping block for converting a CNC plasma cutter to a CNC router. The block was made from 6061 T6 aluminum and required threded holes and countersunk holes for the piece to be flush all around.
+  I purchased a used 2012 Subaru WRX in November 2018 with the intentions of using it as a reliable daily driver as well as a fun weekend track car and cruiser. The vehicle required some general modification to increase the perfomance of it on the track to be competetive with other drivers of the same class. Modifications are as follows, Invidia High Flow Catted Downpiper, Invidia N1 Exhaust, GrimmSpeed EBCS, COBB CAI, COBB Access Port V3, JM Automotive Tune on 91oc by Devin, Short Throw Shifter, Upgraded Rear Sway Bar 20mm, Upgraded Suspension Bushings, Agressive Alignment Front/Rear Camber 1.6DEG/1.4DEG Zero Toe,  
   
     
   Here is the finished piece with the bolts:

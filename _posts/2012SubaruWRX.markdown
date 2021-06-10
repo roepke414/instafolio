@@ -1,0 +1,12 @@
+---
+layout: default
+title: Subaru WRX
+modal-id: 12
+date: 2021-06-10
+img: 
+alt: image-alt
+project-date: 2017 - Present
+category: Automotive
+description: I purchase a 2012 Subaru WRX on November 1st 2018 as a commuter car and a autocross/track car on the weekends. The car requred some minor upgrades over time to improve the drivablity, handling, and power performance. Upgrades that were installed are as follows, 2018 WRX Rear sway bar 20mm, Short Throw Shifter, BFG Sport CompII Tires, Front and Rear Suspension bushings to a harder durometer bushing, Invidia high flow cat downpipe, high flow Invidia exhaust, Cobb CAI, Grimspeed BCS, Secondary Air System Delete. These systems were implemented on the car and tuned by Devin at JM Auto on 91oc for a total peak power of 302WHP and 336WTQ,a 60HP and 75TQ increase over stock figures. After the power upgrades there were many maintenance items that began to appear due to heavier track use of the vehicle such as throw out bearing failure, wheel bearing failure, upper and lower control arm busing failure, fender and bumper damage, timing belt and coolant replacement. All of these maintenance items were repaired by myself in my own shop with higher quality components. The vehilce continues to run to this day starting out from 70k miles to now with over 130k miles.
+
+---

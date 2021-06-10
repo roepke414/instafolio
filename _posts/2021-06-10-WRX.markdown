@@ -3,7 +3,7 @@ layout: default
 title: Subaru WRX
 modal-id: 13
 date: 2021-06-10
-img: SUBARUWRX.png
+img: SUBWRX.png
 alt: image-alt
 project-date: 2017 - Present
 category: Automotive

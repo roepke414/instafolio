@@ -16,15 +16,15 @@ description: >
   The finished results turned out the be a perfect fun track car for the weekends, and a still comfortable and tolerable vehicle to take to work:
   
     
-  <img src="https://imgur.com/a/kECXOSi" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/pHVulWK.jpg" alt="Aerial Photo" style="width: 80%;"/>
   
   
   Here is the dyno graph of the car in its stock form:
   
   
-  <img src="https://imgur.com/a/c43acU7" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/HeHNSTL.png" alt="Aerial Photo" style="width: 80%;"/>
   
   Here is the dyno graph of the car after all modifications:  
   
-  <img src="https://imgur.com/a/8vwLbNh" alt="Aerial Photo" style="width: 80%;"/>
+  <img src="https://i.imgur.com/s2iGRH0.png" alt="Aerial Photo" style="width: 80%;"/>
 ---

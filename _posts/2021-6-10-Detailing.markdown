@@ -3,7 +3,7 @@ layout: default
 title: Automotive Detailing
 modal-id: 15
 date: 2021-06-10
-img: 
+img: WRXMAIN.png
 alt: image-alt
 project-date: 2017 - Present
 category: Automotive
